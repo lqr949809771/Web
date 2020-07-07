@@ -1,0 +1,13 @@
+
+*全局配置
+git config --global user.name "liuquanrui"
+git config --global user.email "lqr0519@163.com"
+*远程推送
+git remote add origin https://gitee.com/liuquanrui/vue_shop.git
+git push -u origin master
+
+lqr
+Alqr.123456
+*****************************************
+ssh-keygen -t rsa -C "lqr0519@163.com"  
+ssh -T git@gitee.com
